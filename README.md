@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhutuu&show_icons=true&locale=en" alt="bhutuu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhutuu&" alt="bhutuu" /></p>
+[![Check out BHUTUU's profile on stardev.io](https://stardev.io/developers/BHUTUU/badge/languages/global.svg)](https://stardev.io/developers/BHUTUU)
