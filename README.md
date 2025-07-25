@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhutuu" alt="bhutuu" /></a> </p>
 
-- 🔭 I’m currently working on [CAD automation](https://github.com/BHUTUU/externalDWG)
+- 🔭 I’m currently working on [CAD automation](https://github.com/BHUTUU/plotDwg)
 
-- 🌱 I’m currently learning **C#, MERN stack**
+- 🌱 I’m currently learning **c++, MERN stack**
 
 - 👯 I’m looking to collaborate on [CAD automation library](https://github.com/BHUTUU/AutocadWork)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bhutuu/](https://www.linkedin.com/in/bhutuu/)
 
-- 📫 How to reach me **sumankumar91356865@gmail.com**
+- 📫 How to reach me **suman.bhutuu@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/BHUTUU](https://github.com/BHUTUU)
 
