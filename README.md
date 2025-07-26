@@ -13,7 +13,7 @@
 
 🎯 I’m passionate about bridging the gap between **engineering** and **automation**, developing tools to simplify manual processes. My work spans CAD automation, full-stack web development, and exploring machine learning applications.
 
-- 🔭 Currently working on: [CAD automation](https://github.com/BHUTUU/plotDwg)
+- 🔭 Currently working on: [AutoCAD Ploting automation](https://github.com/BHUTUU/plotDwg)
 - 🤝 Open to collaborating on: [AutoCAD automation library](https://github.com/BHUTUU/AutocadWork)
 - 🌱 Learning: C#, MERN Stack
 - 📬 Reach me at: **suman.bhutuu@gmail.com**
@@ -27,8 +27,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/bhutuu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/suman_cubezy" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@suman_bhutuu" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" /></a>
-  <a href="https://leetcode.com/bhutuu" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="Leetcode" /></a>
 </p>
 
 ---
