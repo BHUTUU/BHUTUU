@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Kumar</h1>
-<h3 align="center">Full-Stack Developer | CAD Automator | ML Enthusiast | India</h3>
+<h3 align="center">Electrical Engineer | T&D and Infra design | Automation & ML Enthusiast | India</h3>
 
 <p align="center">
   <a href="https://github.com/BHUTUU">
