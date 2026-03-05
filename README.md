@@ -34,7 +34,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,ts,nodejs,express,react,mongodb,mysql,postgres,java,dotnet,flask,git,github,linux,arduino,tensorflow,pytorch,matlab,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,ts,nodejs,express,react,mongodb,mysql,postgres,java,dotnet,flask,git,github,linux,arduino,tensorflow,pytorch,matlab,photoshop,autocad" />
 </p>
 
 ---
