@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on: [AutoCAD Ploting automation](https://github.com/BHUTUU/plotDwg)
 - 🤝 Open to collaborating on: [AutoCAD automation library](https://github.com/BHUTUU/AutocadWork)
-- 🌱 Learning: C#, MERN Stack
+- 🌱 Learning: C#, ActiveARX C++, AutoCAD API, LISP, Substation Technicals
 - 📬 Reach me at: **suman.bhutuu@gmail.com**
 - 📝 Regular posts: [LinkedIn](https://www.linkedin.com/in/bhutuu/)
 - 🌐 Portfolio: [https://bhutuu.github.io](https://bhutuu.github.io/cv)
@@ -34,7 +34,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,ts,nodejs,express,react,mongodb,mysql,postgres,java,dotnet,flask,git,github,linux,arduino,tensorflow,pytorch,matlab,photoshop,autocad" />
+  <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,cs,html,css,js,ts,nodejs,express,react,angular,mongodb,mysql,postgres,java,spring,dotnet,flask,git,github,linux,arduino,tensorflow,pytorch,matlab,photoshop,autocad" />
 </p>
 
 ---
